@@ -22,7 +22,7 @@ The Jupyter notebook of all my work in preparing the data and analysis. StackOve
 
 Results
 
-You can find my write-up of my findings here.
+You can find my write-up of my findings here: https://matthewedyoung.medium.com/age-is-just-a-data-point-250457788df8.
 
 Licensing, Authors, Acknowledgements
 
